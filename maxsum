@@ -1,0 +1,3 @@
+#!/bin/sh
+python maxsum.py > tmp23;sort -k1g tmp23 > tmp24
+tail -n1 tmp24 ;rm -rf tmp2* 
