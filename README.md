@@ -13,8 +13,8 @@ To change the maximum value (initially 20) edit the python code, changing the va
 
 All steps:
 1. Download .zip file
-cd ~/Downloads
-unzip maxsum-master.zip
-cd maxsum-master
-sudo chmod +x max*
-./maxsum
+2. cd ~/Downloads
+3. unzip maxsum-master.zip
+4. cd maxsum-master
+5. sudo chmod +x max*
+6. ./maxsum
